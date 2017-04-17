@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Bastam_Push">
+
+	<Key ID="STR_TB_missionTitle_TB_Bastam_Push">
+		<Original>Bastam Push</Original>
+		<English>Bastam Push</English>
+		<German>Bastam Push</German>
+		<Italian>Bastam Push</Italian>
+		<Spanish>Bastam Push</Spanish>
+		<French>Bastam Push</French>
+		<Czech>Bastam Push</Czech>
+		<Russian>Bastam Push</Russian>
+		<Polish>Bastam Push</Polish>
+		<Hungarian>Bastam Push</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Three_Valleys">
+		<Original>TacBF A&amp;S[M-30]: Bastam Push</Original>
+		<English>TacBF A&amp;S[M-30]: Bastam Push</English>
+		<German>TacBF A&amp;S[M-30]: Bastam Push</German>
+		<Italian>TacBF A&amp;S[M-30]: Bastam Push</Italian>
+		<Spanish>TacBF A&amp;S[M-30]: Bastam Push</Spanish>
+		<French>TacBF A&amp;S[M-30]: Bastam Push</French>
+		<Czech>TacBF A&amp;S[M-30]: Bastam Push</Czech>
+		<Russian>TacBF A&amp;S[M-30]: Bastam Push</Russian>
+		<Polish>TacBF A&amp;S[M-30]: Bastam Push</Polish>
+		<Hungarian>TacBF A&amp;S[M-30]: Bastam Push</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
